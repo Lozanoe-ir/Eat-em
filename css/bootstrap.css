@@ -10282,4 +10282,16 @@ a.text-dark:hover, a.text-dark:focus {
     font-weight: normal;
     font-style: normal;
 }
+#hero{
+  background-image: url('../Img/logobck.jpg');
+  background-size: cover;
+  padding-top: 90px;
+  min-height: 700px;
+  color: #ffffff
+}
+.content-center{
+  max-width: 800px;
+  margin: 0 auto 60px auto;
+  text-align: center;
+}
 /*# sourceMappingURL=bootstrap.css.map */
